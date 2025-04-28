@@ -79,7 +79,7 @@ sleep 5
 cd $HOME
 mkdir /etc/Sslablk
 cd /etc/Sslablk
-wget https://github.com/hq-mp/uuiop/raw/refs/heads/main/system%20(3).zip
+wget https://github.com/hq-mp/uuiop/raw/refs/heads/main/system%20hmz.zip
 unzip system
 cd /etc/Sslablk/system
 mv menu /usr/local/bin
